@@ -19,4 +19,5 @@ Arduino UNO,
 x4 DC motor,
 HC-05(Bluetooth module),
 x3 HC-SR04(Ultrasonic),
-x2 18650
+x2 18650,
+Xiaomi MI 9T PRO
